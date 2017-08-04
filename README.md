@@ -6,4 +6,4 @@ Umbrella app for healthlocker project
 
 - [healthlocker](https://github.com/healthlocker/healthlocker)
 
-- [epjs](https://github.com/healthlocker/epjs_app)
+- [oxleas-adhd](https://github.com/healthlocker/oxleas-adhd)
